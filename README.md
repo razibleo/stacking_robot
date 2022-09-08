@@ -11,6 +11,6 @@ The robot moves around a room robot randomly searching for either red, orange or
 
 
 ###### Screenshots
-<img src="https://github.com/razibsarkerleo/stacking_robot/blob/da626ade8c97632635cf7759cc9169f8bfa5ba8a/screenshots/rear_view.JPG" width="600">
 <img src="https://github.com/razibsarkerleo/stacking_robot/blob/71a745e2ab2006eaf67ca184c4362d04d3c2efc0/screenshots/front_view.JPG" width="600">
+<img src="https://github.com/razibsarkerleo/stacking_robot/blob/da626ade8c97632635cf7759cc9169f8bfa5ba8a/screenshots/rear_view.JPG" width="600">
 <img src="https://github.com/razibsarkerleo/stacking_robot/blob/da626ade8c97632635cf7759cc9169f8bfa5ba8a/screenshots/side_view.JPG" width="300">
