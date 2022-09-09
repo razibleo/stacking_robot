@@ -6,7 +6,7 @@ The robot moves around a room robot randomly searching for either red, orange or
 
 ##### Youtube Video
 <a href="https://youtu.be/xbSocQ4-_gI
-" target="_blank"><img src="https://i9.ytimg.com/vi/xbSocQ4-_gI/mqdefault.jpg?sqp=CJyo5pgG&rs=AOn4CLDns17ErWnhBMvYVmNcBI9aHbYeBA" 
+" target="_blank"><img src="https://github.com/razibsarkerleo/stacking_robot/blob/4ef0b7845785f006ef3a845c65318e12ec643b71/screenshots/stacker_thumbnail.jpeg" 
  width="350"  /></a>
 
 
