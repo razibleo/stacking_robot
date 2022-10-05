@@ -1,5 +1,5 @@
 # Stacking Robot
-A autonomous stacking robot created using OpenCV And a Raspberry pi 4, .
+A autonomous stacking robot created using OpenCV And a Raspberry pi 4 .
 
 ## Description
 The robot moves around a room robot randomly searching for either red, orange or yellow mask using a camera. Once found, it proceeds to the direction of the block  and using the ultrasonic sensor to stop about 30 cm away from the object. After which it lowers the arm and grabs the block and proceeds to move random around the environment in search for a black line using two line follower sensor. It then aligns itself with the line and stops at the end, after which it lowers the arm to place the block.
